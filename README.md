@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hola que tal soy Anthony Briceño
-CS Student @ UCSP | Cybersecurity + Anomaly Detection<br>Building ML-based SIEM solutions for public organizations.<br>C++, Python, Elixir. Algorithms over everything.
+### Hola que tal soy Anthony Briceño
+### CS Student @ UCSP | Cybersecurity + Anomaly Detection<br>Building ML-based SIEM solutions for public organizations.<br>C++, Python, Elixir. Algorithms over everything.
 
 
 ## 🌐 Socials:
