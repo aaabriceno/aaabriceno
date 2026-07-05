@@ -40,7 +40,7 @@ C++, Python, Elixir. Algorithms over everything.
 ### 🎮 3D City Scene
 **OpenGL + C++** ✅
 
-Renderizado 3D interactivo. ~3000 líneas con transformaciones geométricas e iluminación.
+Renderizado 3D interactivo. ~3000 líneas.
 
 </td>
 <td width="50%">
@@ -48,7 +48,7 @@ Renderizado 3D interactivo. ~3000 líneas con transformaciones geométricas e il
 ### 🎯 Quiz Game
 **Elixir + Phoenix** 🔄
 
-Juego de trivia web. Aprendizaje en programación funcional.
+Juego de trivia web en tiempo real.
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ Juego de trivia web. Aprendizaje en programación funcional.
 ### 📊 ERPNext System
 **Frappe** ✅
 
-Sistema de inventario. AWS + Cloudflare deployment.
+Sistema de inventario con AWS.
 
 </td>
 <td width="50%">
@@ -66,7 +66,7 @@ Sistema de inventario. AWS + Cloudflare deployment.
 ### 🔐 Anomaly Detection
 **Research** 🔄
 
-Clustering espacial. R-tree + K-means en logs.
+Clustering espacial en logs.
 
 </td>
 </tr>
@@ -74,48 +74,15 @@ Clustering espacial. R-tree + K-means en logs.
 
 ---
 
-</div>
-
----
-
-## 🎵 Music Stack
+## 🎵 Music
 
 Don Toliver • Travis Scott • Kanye West • Playboi Carti • The Weeknd
 
 ---
 
-## ⚡ Quick Facts
+## 💼 Looking For
 
-<div align="center">
-
-🎯 **Main Focus:** Cybersecurity, ML, Anomaly Detection  
-🔧 **Best Language:** C++  
-📚 **Learning:** Advanced ML & Distributed Systems  
-⚠️ **Improving:** Business Development  
-
-</div>
-
----
-
-## 💡 What I'm Looking For
-
-- Collaborations on anomaly detection and security
-- Feedback on SIEM solutions
-- Business development mentorship for startups
+- Collaborations on cybersecurity & anomaly detection
+- SIEM solutions feedback
+- Business development mentorship
 - Connections with CISOs in Peru
-
----
-
-## 📝 Philosophy
-
-*Direct feedback only. No generic advice—give me constructive criticism and concrete solutions.*
-
----
-
-<div align="center">
-
-**Made with ❤️ in Arequipa, Peru 🇵🇪**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=aaabriceno&color=blueviolet&style=flat-square)](https://visitcount.itsvg.in)
-
-</div>
