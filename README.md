@@ -2,9 +2,9 @@
 
 ```
  ╔═══════════════════════════════════════════════════════════════╗
- ║  UC San Pablo (UCSP) | Perú 🇵🇪                              ║
- ║  Building security solutions for the public sector             ║
- ║  Thesis + Commercial Product: Wazuh Log Anomaly Detection      ║
+ ║  UC San Pablo (UCSP) | Perú 🇵🇪                                 ║
+ ║  Building security solutions for the public sector            ║
+ ║  Thesis + Commercial Product: Wazuh Log Anomaly Detection     ║
  ╚═══════════════════════════════════════════════════════════════╝
 ```
 
