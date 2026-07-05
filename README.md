@@ -1,10 +1,7 @@
 <div align="center">
-
+  
 # 🔐 Anthony Briceño
-
-**CS Student @ UCSP | Cybersecurity + Anomaly Detection**  
-Building ML-based SIEM solutions for public organizations.  
-C++, Python, Elixir. Algorithms over everything.
+**CS Student @ UCSP | Cybersecurity**  
 
 </div>
 
