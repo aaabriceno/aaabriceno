@@ -137,7 +137,7 @@ Don Toliver • Travis Scott • Kanye West • Playboi Carti • The Weeknd
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Keep%20Learning&fontSize=25&fontColor=fff&animation=fadeIn)
 
-**Made with ❤️ in Arequipa, Peru 🇵🇪**
+**Peru 🇵🇪**
 
 [![](https://komarev.com/ghpvc/?username=aaabriceno&color=blueviolet&style=flat-square)](https://visitcount.itsvg.in)
 
