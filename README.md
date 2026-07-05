@@ -14,13 +14,13 @@
 
 <div align="center">
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthony&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaabriceno&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaabriceno&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)
 
 </div>
 
