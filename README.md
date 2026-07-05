@@ -15,6 +15,51 @@ CS Student @ UCSP | Cybersecurity + Anomaly Detection<br>Building ML-based SIEM 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aaabriceno&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 3D City Scene
+**OpenGL + C++** ✅
+
+Renderizado 3D interactivo de escena urbana. ~3000 líneas.
+
+</td>
+<td width="50%">
+
+### 🎯 Quiz Game
+**Elixir + Phoenix** 🔄
+
+Juego de trivia web en tiempo real.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 ERPNext System
+**Frappe** ✅
+
+Sistema de inventario con AWS deployment.
+
+</td>
+<td width="50%">
+
+### 🔐 Anomaly Detection
+**Research** 🔄
+
+Clustering espacial en logs de seguridad.
+
+</td>
+</tr>
+</table>
+
+## 🎵 Music Stack
+
+Don Toliver • Travis Scott • Kanye West • Playboi Carti • The Weeknd
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aaabriceno&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
