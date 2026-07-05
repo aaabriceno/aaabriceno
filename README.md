@@ -88,11 +88,11 @@ Clustering espacial con R-tree + K-means. Detección de patrones en logs.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=aaabriceno&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=aaabriceno&theme=shadow_blue&hide_border=true&show_icons=true)
 
 ![Streak](https://streak-stats.demolab.com/?user=aaabriceno&theme=shadow_blue&hide_border=true)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=aaabriceno&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=aaabriceno&theme=shadow_blue&hide_border=true&layout=compact)
 
 </div>
 
@@ -101,6 +101,20 @@ Clustering espacial con R-tree + K-means. Detección de patrones en logs.
 ## 🎵 Music Stack
 
 Don Toliver • Travis Scott • Kanye West • Playboi Carti • The Weeknd
+
+---
+
+## ⚡ Quick Facts
+
+<div align="center">
+
+🎯 **Main Focus:** Cybersecurity & ML-based Anomaly Detection  
+🔧 **Best Language:** C++  
+📚 **Learning:** Advanced ML & Distributed Systems  
+🏃 **Speed:** Fast learner in algorithms & functional paradigms  
+⚠️ **Weakness:** Business development (actively improving)  
+
+</div>
 
 ---
 
