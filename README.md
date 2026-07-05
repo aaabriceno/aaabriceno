@@ -12,9 +12,6 @@ CS Student @ UCSP | Cybersecurity + Anomaly Detection<br>Building ML-based SIEM 
 ![](https://streak-stats.demolab.com/?user=aaabriceno&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aaabriceno&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Trofeos de GitHub
-![](https://github-profile-trophy.vercel.app/?username=aaabriceno&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🚀 Proyectos
 
 <table>
