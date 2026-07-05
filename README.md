@@ -17,17 +17,17 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaabriceno&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff)
+### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaabriceno&theme=tokyonight&hide_border=false&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=8)
+```
+📊 Commits regulares | 🔀 Pull Requests | ⭐ Repositorios públicos
+🔒 Repositorios privados | 🤝 Contribuciones | 📚 Documentación
+```
 
-</div>
-
-<div align="center">
+**Visita mi perfil para ver estadísticas en tiempo real:**  
+🔗 [github.com/aaabriceno](https://github.com/aaabriceno)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaabriceno&theme=tokyonight&hide_border=false&background=0d1117)](https://git.io/streak-stats)
-
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aaabriceno&theme=tokyo-night&hide_border=true)](https://github.com/aaabriceno)
 
 </div>
 
@@ -85,6 +85,23 @@ Código limpio → Algoritmos eficientes → Productos que resuelven problemas r
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2024.04-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🔤 Proficiencia en Lenguajes
+
+<div align="center">
+
+| Lenguaje | Nivel | Proyectos |
+|----------|-------|-----------|
+| **C++** | 🔴🔴🔴🔴🔴 Expert | Wazuh Thesis, 3D Graphics, Algorithms |
+| **Python** | 🔴🔴🔴🔴 Advanced | ML/AI, Data Analysis, Backend |
+| **Elixir** | 🔴🔴🔴🔴 Advanced | Phoenix Framework, Quiz Game |
+| **Haskell** | 🔴🔴🔴🔴 Advanced | Functional Paradigm, Matrix Ops |
+| **SQL** | 🔴🔴🔴 Intermediate | Database Design, PostgreSQL |
+| **Bash** | 🔴🔴🔴 Intermediate | DevOps, System Admin |
 
 </div>
 
