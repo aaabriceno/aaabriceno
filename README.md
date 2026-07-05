@@ -74,14 +74,6 @@ Clustering espacial. R-tree + K-means en logs.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=aaabriceno&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aaabriceno&layout=compact&theme=tokyonight)
-
 </div>
 
 ---
