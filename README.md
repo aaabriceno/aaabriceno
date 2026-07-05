@@ -6,8 +6,6 @@
 Building ML-based SIEM solutions for public organizations.  
 C++, Python, Elixir. Algorithms over everything.
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Security%20%26%20Algorithms&fontSize=30&fontColor=fff&animation=fadeIn)
-
 </div>
 
 ---
@@ -15,8 +13,8 @@ C++, Python, Elixir. Algorithms over everything.
 ## 🌐 Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-aaabriceno-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aaabriceno)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Briceño-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-briceño-2aa110220/)
-[![Email](https://img.shields.io/badge/Email-anthonyquiroz305@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonyquiroz305@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-briceño-2aa110220/)
+[![Email](https://img.shields.io/badge/Email-Send%20Message-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonyquiroz305@gmail.com)
 
 ---
 
@@ -40,21 +38,17 @@ C++, Python, Elixir. Algorithms over everything.
 <td width="50%">
 
 ### 🎮 3D City Scene
-**OpenGL + C++** ✅ Completed
+**OpenGL + C++** ✅
 
-Renderizado 3D interactivo de escena urbana. ~3000 líneas de código con transformaciones geométricas e iluminación avanzada.
-
-**Tech:** C++, OpenGL, Graphics
+Renderizado 3D interactivo. ~3000 líneas con transformaciones geométricas e iluminación.
 
 </td>
 <td width="50%">
 
 ### 🎯 Quiz Game
-**Elixir + Phoenix** 🔄 In Progress
+**Elixir + Phoenix** 🔄
 
-Juego de trivia web. Aprendizaje en programación funcional y sistemas distribuidos.
-
-**Tech:** Elixir, Phoenix Framework
+Juego de trivia web. Aprendizaje en programación funcional.
 
 </td>
 </tr>
@@ -62,21 +56,17 @@ Juego de trivia web. Aprendizaje en programación funcional y sistemas distribui
 <td width="50%">
 
 ### 📊 ERPNext System
-**Frappe** ✅ Completed
+**Frappe** ✅
 
-Sistema de inventario con infraestructura cloud. AWS + Cloudflare Tunnel deployment.
-
-**Tech:** Frappe, Ubuntu, AWS, Docker
+Sistema de inventario. AWS + Cloudflare deployment.
 
 </td>
 <td width="50%">
 
 ### 🔐 Anomaly Detection
-**Research** 🔄 In Progress
+**Research** 🔄
 
-Clustering espacial con R-tree + K-means. Detección de patrones en logs.
-
-**Tech:** Python, ML, Algorithms
+Clustering espacial. R-tree + K-means en logs.
 
 </td>
 </tr>
@@ -88,11 +78,9 @@ Clustering espacial con R-tree + K-means. Detección de patrones en logs.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=aaabriceno&theme=shadow_blue&hide_border=true&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=aaabriceno&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com/?user=aaabriceno&theme=shadow_blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=aaabriceno&theme=shadow_blue&hide_border=true&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aaabriceno&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -108,11 +96,10 @@ Don Toliver • Travis Scott • Kanye West • Playboi Carti • The Weeknd
 
 <div align="center">
 
-🎯 **Main Focus:** Cybersecurity & ML-based Anomaly Detection  
+🎯 **Main Focus:** Cybersecurity, ML, Anomaly Detection  
 🔧 **Best Language:** C++  
 📚 **Learning:** Advanced ML & Distributed Systems  
-🏃 **Speed:** Fast learner in algorithms & functional paradigms  
-⚠️ **Weakness:** Business development (actively improving)  
+⚠️ **Improving:** Business Development  
 
 </div>
 
@@ -120,25 +107,23 @@ Don Toliver • Travis Scott • Kanye West • Playboi Carti • The Weeknd
 
 ## 💡 What I'm Looking For
 
-- Collaborations on **anomaly detection** & **security**
-- Feedback on **SIEM solutions** viability
-- **Business development** mentorship for tech startups
-- Connections with **CISOs** in Peru
+- Collaborations on anomaly detection and security
+- Feedback on SIEM solutions
+- Business development mentorship for startups
+- Connections with CISOs in Peru
 
 ---
 
 ## 📝 Philosophy
 
-*"Direct feedback only. No generic advice—give me constructive criticism and concrete solutions."*
+*Direct feedback only. No generic advice—give me constructive criticism and concrete solutions.*
 
 ---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Keep%20Learning&fontSize=25&fontColor=fff&animation=fadeIn)
+**Made with ❤️ in Arequipa, Peru 🇵🇪**
 
-**Peru 🇵🇪**
-
-[![](https://komarev.com/ghpvc/?username=aaabriceno&color=blueviolet&style=flat-square)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=aaabriceno&color=blueviolet&style=flat-square)](https://visitcount.itsvg.in)
 
 </div>
