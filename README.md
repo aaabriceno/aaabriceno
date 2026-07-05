@@ -2,9 +2,9 @@
 
 ```
  ╔═══════════════════════════════════════════════════════════════╗
- ║  UC San Pablo (UCSP) | Perú 🇵🇪                                 ║
- ║  Building security solutions for the public sector            ║
- ║  Thesis + Commercial Product: Wazuh Log Anomaly Detection     ║
+ ║  UC San Pablo (UCSP) | Perú 🇵🇪                              ║
+ ║  Building security solutions for the public sector             ║
+ ║  Thesis + Commercial Product: Wazuh Log Anomaly Detection      ║
  ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anthony&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaabriceno&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![Anthony's github activity graph](https://activity-graph.herokuapp.com/graph?username=anthony&theme=tokyonight&hide_border=true)
+![Anthony's github activity graph](https://activity-graph.herokuapp.com/graph?username=aaabriceno&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -187,9 +187,9 @@ Sistema de inventario personalizado. Exploración de infraestructura cloud y Dev
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-anthony-181717?style=for-the-badge&logo=github)](https://github.com/aaabriceno)
+[![GitHub](https://img.shields.io/badge/GitHub-aaabriceno-181717?style=for-the-badge&logo=github)](https://github.com/aaabriceno)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anthony)
-[![Email](https://img.shields.io/badge/Email-anthony%40email.com-EA4335?style=for-the-badge&logo=gmail)](mailto:anthonyquiroz305@gmail.com)
+[![Email](https://img.shields.io/badge/Email-anthonyquiroz305%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:anthonyquiroz305@gmail.com)
 
 </div>
 
@@ -263,6 +263,6 @@ while (learning && improving) {
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=anthony&color=blueviolet" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=aaabriceno&color=blueviolet" alt="Profile views"/>
 
 </div>
